@@ -83,7 +83,7 @@ namespace YoutubePlayerLib.Cef
             if (string.Equals(fileName, "/PostDataTest.html", StringComparison.OrdinalIgnoreCase))
             {
                 var postDataElement = request.PostData.Elements.FirstOrDefault();
-                var resourceHandler = ResourceHandler.FromString("Post Data: " + (postDataElement == null ? "null" : postDataElement.GetBody()));
+                var resourceHandler = (ResourceHandler)ResourceHandler.FromString("Post Data: " + (postDataElement == null ? "null" : postDataElement.GetBody()));
                 stream = (MemoryStream)resourceHandler.Stream;
                 mimeType = "text/html";
                 callback.Continue();
@@ -95,7 +95,7 @@ namespace YoutubePlayerLib.Cef
                 var postData = request.PostData;
                 if (postData == null)
                 {
-                    var resourceHandler = ResourceHandler.FromString("Post Data: null");
+                    var resourceHandler = (ResourceHandler)ResourceHandler.FromString("Post Data: null");
                     stream = (MemoryStream)resourceHandler.Stream;
                     mimeType = "text/html";
                     callback.Continue();
@@ -103,7 +103,7 @@ namespace YoutubePlayerLib.Cef
                 else
                 {
                     var postDataElement = postData.Elements.FirstOrDefault();
-                    var resourceHandler = ResourceHandler.FromString("Post Data: " + (postDataElement == null ? "null" : postDataElement.GetBody()));
+                    var resourceHandler = (ResourceHandler)ResourceHandler.FromString("Post Data: " + (postDataElement == null ? "null" : postDataElement.GetBody()));
                     stream = (MemoryStream)resourceHandler.Stream;
                     mimeType = "text/html";
                     callback.Continue();

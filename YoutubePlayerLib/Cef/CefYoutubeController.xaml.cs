@@ -183,6 +183,7 @@ namespace YoutubePlayerLib.Cef
             WebBrowser.Address = @"custom://cefsharp/CefPlayer.html";
             //set startup value for Player
             WebBrowser.LoadingStateChanged += CheckkIfLoadingDone;
+            CefSharpSettings.LegacyJavascriptBindingEnabled = true;
             var bound = new BoundObject();
             bound.PlayerLoadingDone += JavascriptReady;
             bound.PlayerPlayingChanged += BoundOnPlayerPlayingChanged;
