@@ -15,6 +15,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using MessageBox = System.Windows.Forms.MessageBox;
 
 namespace YoutubePlayerLib.Cef
 {
@@ -176,6 +177,7 @@ namespace YoutubePlayerLib.Cef
         private bool _browserLoaded = false;
         private bool _iframePlayerLoaded = false;
         private bool _startupSettingsRun = false;
+        public BoundObject bound = new BoundObject();
 
         public CefYoutubeController()
         {
@@ -184,9 +186,10 @@ namespace YoutubePlayerLib.Cef
             //set startup value for Player
             WebBrowser.LoadingStateChanged += CheckkIfLoadingDone;
             CefSharpSettings.LegacyJavascriptBindingEnabled = true;
-            var bound = new BoundObject();
+           
             bound.PlayerLoadingDone += JavascriptReady;
             bound.PlayerPlayingChanged += BoundOnPlayerPlayingChanged;
+           // bound.PlayerPlayingChanged += BoundOnPlayerPlayingChanged2;
             WebBrowser.RegisterJsObject("bound", bound);
 
             StartCommand = new Command(Start);
@@ -194,6 +197,7 @@ namespace YoutubePlayerLib.Cef
             PauseCommand = new Command(() => WebBrowser.ExecuteScriptAsync("setPlayerState", pausetVideoParam));
         }
 
+     
         private void Pause()
         {
             WebBrowser.ExecuteScriptAsync("setPlayerState", pausetVideoParam);
@@ -201,6 +205,7 @@ namespace YoutubePlayerLib.Cef
 
         private void BoundOnPlayerPlayingChanged(object sender, YoutubePlayerState e)
         {
+            //MessageBox.Show(e.ToString());
             Dispatcher.Invoke(() => PlayerState = e);
         }
 

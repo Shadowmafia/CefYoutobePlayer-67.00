@@ -1,0 +1,4 @@
+C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerExample\obj\x86\Release\YoutubePlayerExample.csprojAssemblyReference.cache
+C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerExample\obj\x86\Release\App.g.cs
+C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerExample\obj\x86\Release\YoutubePlayerExample_MarkupCompile.cache
+C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerExample\obj\x86\Release\YoutubePlayerExample_MarkupCompile.lref

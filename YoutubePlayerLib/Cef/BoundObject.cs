@@ -7,7 +7,7 @@ using System.Windows.Forms;
 
 namespace YoutubePlayerLib.Cef
 {
-    class BoundObject
+    public class BoundObject
     {
         public event EventHandler PlayerLoadingDone;
         public event EventHandler PlayerQualityChanged;

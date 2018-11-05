@@ -1,0 +1,20 @@
+[1027/183351.275:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1027/183351.477:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1027/183533.661:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1027/183533.755:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1027/184712.256:WARNING:spdy_session.cc(3012)] Received HEADERS for invalid stream 15
+[1027/184731.841:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1027/184732.020:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1027/184828.550:ERROR:broker_win.cc(134)] Error sending sync broker message: Идет закрытие канала. (0xE8)
+[1027/185627.915:WARNING:spdy_session.cc(3012)] Received HEADERS for invalid stream 9
+[1027/190137.563:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1027/190137.727:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1027/190511.243:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1027/190511.410:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1027/190540.480:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1027/190540.651:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1027/190643.487:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1027/190643.496:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1027/190801.042:WARNING:audio_sync_reader.cc(175)] ASR: No room in socket buffer.: Идет закрытие канала. (0xE8)
+[1027/190929.117:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1027/190929.279:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/

@@ -1,0 +1,35 @@
+[1027/194622.247:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1027/194622.439:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1027/194641.301:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(65,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(87,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1027/195015.542:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+[1028/210352.835:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1028/210352.942:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1029/231421.649:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1029/231421.657:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1029/234759.990:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1029/234800.091:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1029/234825.793:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+[1029/234939.560:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1029/234939.688:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1029/235709.713:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1029/235709.841:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1029/235723.626:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1029/235723.723:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1029/235741.008:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1029/235741.101:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1030/151227.249:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1030/151227.340:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1030/151930.151:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1030/151930.274:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1030/151951.506:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1030/151951.596:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1030/152006.363:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1030/152006.469:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1030/152033.960:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(65,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(87,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1030/152322.353:WARNING:spdy_session.cc(3012)] Received HEADERS for invalid stream 3
