@@ -1,0 +1,41 @@
+[1116/201443.518:INFO:CONSOLE(93)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl8_u944/www-widgetapi.js (93)
+[1116/201444.340:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1116/201444.453:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1116/201512.316:INFO:CONSOLE(32)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=VTNjuBjtlpA&feature=player_embedded_uturn (32)
+[1116/201512.740:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1116/201512.742:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(65,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(87,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1116/201512.760:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1116/201512.828:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1116/201514.064:INFO:CONSOLE(15)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/network-vflNZTggj/network.js (15)
+[1116/201514.076:ERROR:quota_settings.cc(111)] Unable to compute QuotaSettings.
+[1116/201514.077:WARNING:quota_manager.cc(1632)] No storage quota provided in QuotaSettings.
+[1116/201516.092:INFO:CONSOLE(0)] "The resource https://r1---sn-ugpva5o-ig3s.googlevideo.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=VTNjuBjtlpA&feature=player_embedded_uturn (0)
+[1116/201516.092:INFO:CONSOLE(0)] "The resource https://r1---sn-ugpva5o-ig3s.googlevideo.com/generate_204?conn2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=VTNjuBjtlpA&feature=player_embedded_uturn (0)
+[1217/142046.033:INFO:CONSOLE(93)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflxGrywa/www-widgetapi.js (93)
+[1217/142046.956:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1217/142047.134:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1217/142112.097:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+[1217/142112.121:WARNING:spdy_session.cc(3012)] Received HEADERS for invalid stream 59
+[1217/142227.958:INFO:CONSOLE(93)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflxGrywa/www-widgetapi.js (93)
+[1217/142228.765:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1217/142228.896:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1217/143323.392:WARNING:audio_sync_reader.cc(175)] ASR: No room in socket buffer.: Идет закрытие канала. (0xE8)
+[1217/143419.883:INFO:CONSOLE(22)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=sM1LOMZjFJ4&feature=player_embedded_uturn (22)
+[1217/143420.177:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1217/143420.207:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1217/143420.410:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1217/143422.322:ERROR:quota_settings.cc(111)] Unable to compute QuotaSettings.
+[1217/143422.323:WARNING:quota_manager.cc(1632)] No storage quota provided in QuotaSettings.
+[1217/143422.599:INFO:CONSOLE(8604)] "paper-tooltip:", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vfl6qcDde/desktop_polymer.js (8604)
+[1217/143422.606:INFO:CONSOLE(8604)] "paper-tooltip:", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vfl6qcDde/desktop_polymer.js (8604)
+[1217/143422.607:INFO:CONSOLE(8604)] "paper-tooltip:", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vfl6qcDde/desktop_polymer.js (8604)
+[1217/143422.618:INFO:CONSOLE(8604)] "paper-tooltip:", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vfl6qcDde/desktop_polymer.js (8604)
+[1217/143422.620:INFO:CONSOLE(8604)] "paper-tooltip:", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vfl6qcDde/desktop_polymer.js (8604)
+[1217/143422.651:INFO:CONSOLE(8604)] "paper-tooltip:", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vfl6qcDde/desktop_polymer.js (8604)
+[1217/143422.661:INFO:CONSOLE(15)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/network-vflNZTggj/network.js (15)
+[1217/143423.928:INFO:CONSOLE(0)] "The resource https://r4---sn-ugpva5o-ig36.googlevideo.com/generate_204?conn2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=sM1LOMZjFJ4&feature=player_embedded_uturn (0)
+[1217/143423.928:INFO:CONSOLE(0)] "The resource https://r4---sn-ugpva5o-ig36.googlevideo.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=sM1LOMZjFJ4&feature=player_embedded_uturn (0)
+[1217/143438.512:WARNING:spdy_session.cc(3012)] Received HEADERS for invalid stream 149

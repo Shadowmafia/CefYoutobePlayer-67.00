@@ -9,7 +9,7 @@
   //    after the API code downloads.
   var player;
   var autoPlay = false;
-  var quality = "hd720";
+  var quality = "default";
   var startUpId = 'XIMLoLxmTDw';
   
   function onYouTubeIframeAPIReady() {
