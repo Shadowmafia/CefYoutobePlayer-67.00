@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -15,6 +16,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using YoutubePlayerLib.FakeServer;
 using MessageBox = System.Windows.Forms.MessageBox;
 
 namespace YoutubePlayerLib.Cef
@@ -182,7 +184,10 @@ namespace YoutubePlayerLib.Cef
         public CefYoutubeController()
         {
             InitializeComponent();
-            WebBrowser.Address = @"custom://cefsharp/CefPlayer.html";
+            HttpServer.InitHttpServer(SucsesReqest);
+            HttpServer.Run();
+
+            WebBrowser.Address = @"http://localhost:8080/YouPlayer/";
             //set startup value for Player
             WebBrowser.LoadingStateChanged += CheckkIfLoadingDone;
             CefSharpSettings.LegacyJavascriptBindingEnabled = true;
@@ -197,7 +202,13 @@ namespace YoutubePlayerLib.Cef
             PauseCommand = new Command(() => WebBrowser.ExecuteScriptAsync("setPlayerState", pausetVideoParam));
         }
 
-     
+        private string SucsesReqest(HttpListenerRequest arg)
+        {
+
+            string tst = YoutubePlayerLib.Properties.Resources.CefPlayer;
+            return tst;
+        }
+
         private void Pause()
         {
             WebBrowser.ExecuteScriptAsync("setPlayerState", pausetVideoParam);

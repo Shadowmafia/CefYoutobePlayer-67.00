@@ -33,3 +33,44 @@ C:\fakepath(65,10-42): warning X3571: pow(f, e) will not work for negative f, us
 C:\fakepath(87,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
 
 [1030/152322.353:WARNING:spdy_session.cc(3012)] Received HEADERS for invalid stream 3
+[1224/152332.881:INFO:CONSOLE(93)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflxGrywa/www-widgetapi.js (93)
+[1224/152333.569:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/152333.678:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/152354.916:INFO:CONSOLE(93)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflxGrywa/www-widgetapi.js (93)
+[1224/152355.559:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/152355.668:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/153937.674:INFO:CONSOLE(93)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflxGrywa/www-widgetapi.js (93)
+[1224/153938.348:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/153938.458:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/154639.022:INFO:CONSOLE(93)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflxGrywa/www-widgetapi.js (93)
+[1224/154639.681:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/154639.775:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/154701.122:INFO:CONSOLE(93)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflxGrywa/www-widgetapi.js (93)
+[1224/154701.907:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/154702.059:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/154944.950:INFO:CONSOLE(93)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflxGrywa/www-widgetapi.js (93)
+[1224/154945.683:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/154945.788:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/155212.139:INFO:CONSOLE(93)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflxGrywa/www-widgetapi.js (93)
+[1224/155212.798:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/155212.907:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/155313.902:INFO:CONSOLE(93)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflxGrywa/www-widgetapi.js (93)
+[1224/155314.587:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/155314.714:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/155415.656:INFO:CONSOLE(93)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflxGrywa/www-widgetapi.js (93)
+[1224/155416.322:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/155416.556:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/155427.107:WARNING:spdy_session.cc(3012)] Received HEADERS for invalid stream 51
+[1224/155520.600:INFO:CONSOLE(93)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflxGrywa/www-widgetapi.js (93)
+[1224/155521.322:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/155521.499:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/155642.870:INFO:CONSOLE(93)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflxGrywa/www-widgetapi.js (93)
+[1224/155643.573:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/155643.697:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/160151.405:INFO:CONSOLE(93)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflxGrywa/www-widgetapi.js (93)
+[1224/160152.382:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/160152.409:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/160301.129:INFO:CONSOLE(93)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflxGrywa/www-widgetapi.js (93)
+[1224/160302.263:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/160302.295:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/160456.854:INFO:CONSOLE(93)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflxGrywa/www-widgetapi.js (93)

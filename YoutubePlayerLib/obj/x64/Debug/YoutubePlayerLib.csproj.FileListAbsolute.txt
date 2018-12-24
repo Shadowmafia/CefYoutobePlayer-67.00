@@ -272,7 +272,6 @@ C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerLib\bin\x64\Deb
 C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerLib\bin\x64\Debug\CefSharp.Wpf.XML
 C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerLib\bin\x64\Debug\YoutubePlayerLib.dll
 C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerLib\bin\x64\Debug\YoutubePlayerLib.pdb
-C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerLib\obj\x64\Debug\YoutubePlayerLib.csprojAssemblyReference.cache
 C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerLib\obj\x64\Debug\Cef\CefYoutubeController.g.cs
 C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerLib\obj\x64\Debug\YoutubePlayerLib_MarkupCompile.cache
 C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerLib\obj\x64\Debug\YoutubePlayerLib_MarkupCompile.lref

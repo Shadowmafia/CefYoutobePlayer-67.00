@@ -43,8 +43,7 @@ namespace YoutubePlayerLib.Cef
         static CefSharpSchemeHandler()
         {
             ResourceDictionary = new Dictionary<string, string>
-            {
-                { "/home.html", Resources.Player },
+            {              
                 { "/CefPlayer.html", Resources.CefPlayer},
                 { "/CefPlayer.js", Resources.CefPlayer1},
 

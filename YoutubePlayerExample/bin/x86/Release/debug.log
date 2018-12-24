@@ -39,3 +39,12 @@ C:\fakepath(87,10-42): warning X3571: pow(f, e) will not work for negative f, us
 [1217/143423.928:INFO:CONSOLE(0)] "The resource https://r4---sn-ugpva5o-ig36.googlevideo.com/generate_204?conn2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=sM1LOMZjFJ4&feature=player_embedded_uturn (0)
 [1217/143423.928:INFO:CONSOLE(0)] "The resource https://r4---sn-ugpva5o-ig36.googlevideo.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=sM1LOMZjFJ4&feature=player_embedded_uturn (0)
 [1217/143438.512:WARNING:spdy_session.cc(3012)] Received HEADERS for invalid stream 149
+[1224/160225.217:INFO:CONSOLE(93)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflxGrywa/www-widgetapi.js (93)
+[1224/160226.372:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/160226.393:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/160237.316:INFO:CONSOLE(93)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflxGrywa/www-widgetapi.js (93)
+[1224/160238.042:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/160238.179:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/160506.543:INFO:CONSOLE(93)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflxGrywa/www-widgetapi.js (93)
+[1224/160507.419:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1224/160507.424:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/

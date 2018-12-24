@@ -189,7 +189,6 @@ C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerExample\bin\x86
 C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerExample\bin\x86\Debug\YoutubePlayerExample.pdb
 C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerExample\bin\x86\Debug\YoutubePlayerLib.dll
 C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerExample\bin\x86\Debug\YoutubePlayerLib.pdb
-C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerExample\obj\x86\Debug\YoutubePlayerExample.csprojAssemblyReference.cache
 C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerExample\obj\x86\Debug\MainWindow.g.cs
 C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerExample\obj\x86\Debug\App.g.cs
 C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerExample\obj\x86\Debug\YoutubePlayerExample_MarkupCompile.cache
@@ -203,3 +202,4 @@ C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerExample\obj\x86
 C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerExample\obj\x86\Debug\YoutubePlayerExample.csproj.CopyComplete
 C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerExample\obj\x86\Debug\YoutubePlayerExample.exe
 C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerExample\obj\x86\Debug\YoutubePlayerExample.pdb
+C:\Users\Shadowmafia\Desktop\CefYoutobePlayer-67.00\YoutubePlayerExample\obj\x86\Debug\YoutubePlayerExample.csprojAssemblyReference.cache
